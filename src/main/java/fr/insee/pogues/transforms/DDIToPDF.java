@@ -1,3 +1,3 @@
 package fr.insee.pogues.transforms;
 
-public interface DDIToPDF extends Transformer { }
+public interface DDIToPDF extends Transformer{}
